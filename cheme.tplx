@@ -2,5 +2,5 @@
 ((* block docclass *))
 %The extarticle and extreport packages support font sizes: 8pt, 9pt, 10pt, 11pt, 12pt, 14pt, 17pt, 20pt.
 \documentclass[14pt]{extarticle}
-\usepackage[a4paper,margin=.5in,landscape]{geometry}
+\usepackage[a4paper,margin=.25in,landscape]{geometry}
 ((* endblock docclass *))
